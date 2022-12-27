@@ -1,0 +1,2 @@
+# nonebot_plugin_hypixel
+一个用于查询hypixel数据的bot

@@ -25,6 +25,12 @@ _✨ 基于OneBot适配器的[NoneBot2](https://v2.nonebot.dev/)获取Mineceaft�
 pip install nonebot_plugin_hypixel
 ```
 
+- 使用nb-cli
+
+```
+nb plugin install nonebot_plugin_hypixel
+```
+
 # 帮助  
 ## 括号内为必填参数，中括号内为选填参数
 (需要在命令前添加命令前缀)  

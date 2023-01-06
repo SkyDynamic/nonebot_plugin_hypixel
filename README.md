@@ -6,7 +6,7 @@
   
 # Nonebot_Plugin_Hypixel
   
-_✨ 基于OneBot适配器的[NoneBot2](https://v2.nonebot.dev/)获取Mineceaft最大的小游戏服务器Hypixel的玩家数据 ✨_
+_✨ 基于OneBot适配器的[NoneBot2](https://v2.nonebot.dev/)获取Mineceaft最大的小游戏服务器Hypixel的玩家数据的插件 ✨_
   
 </div>
 
